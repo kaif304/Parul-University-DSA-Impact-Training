@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.SinglyLinkedList;
 //import LinkedList.Node;
 public class MultipleNodes {
     public static void main(String[] args) {

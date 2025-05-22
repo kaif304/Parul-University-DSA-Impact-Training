@@ -1,6 +1,4 @@
-package LinkedList;
-
-import java.util.Queue;
+package LinkedList.SinglyLinkedList;
 
 public class LinkedList {
     Node head;

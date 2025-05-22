@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.SinglyLinkedList;
 
 public class NodeSimpleDemo {
     public static void main(String[] args) {
